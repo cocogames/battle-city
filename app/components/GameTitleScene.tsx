@@ -1,4 +1,4 @@
-app/components/GameTitleScene.tsximport React from 'react'
+import React from 'react'
 import { connect } from 'react-redux'
 import { push } from 'react-router-redux'
 import { Dispatch } from 'redux'
