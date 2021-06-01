@@ -284,13 +284,13 @@ namespace GalleryContent {
               x={8}
               y={0}
               maxLength={28}
-              content="This remake version is codedby shinima on github."
+              content="This remake version is codedby cocogames on github."
             />
             <TextButton
               x={96 + 24}
               y={12}
               content="github."
-              onClick={() => window.open('https://github.com/shinima/battle-city')}
+              onClick={() => window.open('https://github.com/cocogames/battle-city')}
               stroke="#9ed046"
             />
             <TextWithLineWrap x={8} y={40} maxLength={28} content="Welcome fork and star." />

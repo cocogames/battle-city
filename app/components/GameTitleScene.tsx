@@ -1,4 +1,4 @@
-import React from 'react'
+app/components/GameTitleScene.tsximport React from 'react'
 import { connect } from 'react-redux'
 import { push } from 'react-router-redux'
 import { Dispatch } from 'redux'
@@ -100,7 +100,7 @@ export class GameTitleSceneContent extends React.PureComponent<
             x={22 * B}
             y={B}
             content="star me on github"
-            onClick={() => window.open('https://github.com/shinima/battle-city')}
+            onClick={() => window.open('https://github.com/cocogames/battle-city')}
           />
         </g>
         <Text content={'\u2160-    00 HI- 20000'} x={1 * B} y={1.5 * B} />
